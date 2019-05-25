@@ -4,3 +4,5 @@ REST API adalah salah satu model implementasi dari web service, digunakan untuk 
 GET untuk mengambil data, POST untuk membuat resources baru, PUT untuk mengupdate, dan DELETE untuk menghapus. 
 
 Dan Kegunaan JSON pada REST API ini adalah JSON sebagai output atau respon ketika proses antara client dan server, contohnya ketika client menginginkan suatu resources yang ada pada server maka client akan menggunakan GET untuk mengambil data yang diinginkan lalu server akan meresponnya dengan bentuk JSON.
+
+Note : Maaf admin arkademy saya tidak sempat upload soal no 6 tanpa rar, jadi terpaksa karena waktu sudah mepet jadi saya upload dengan rar
