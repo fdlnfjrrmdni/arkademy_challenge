@@ -1,4 +1,4 @@
-# Arkademy Challeng
+# Arkademy Challenge
 
 REST API adalah salah satu model implementasi dari web service, digunakan untuk pertukaran data. yang mana ada client dan server dimana ketika client menginginkan suatu resources pada server maka digunakan method HTTP, yang biasa digunakan adalah GET, POST, PUT, dan DELETE.
 GET untuk mengambil data, POST untuk membuat resources baru, PUT untuk mengupdate, dan DELETE untuk menghapus. 
